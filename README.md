@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdsuhailmk&label=Profile%20views&color=0e75b6&style=flat" alt="mhdsuhailmk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><nbsp><img src="https://github-profile-trophy.vercel.app/?username=mhdsuhailmk" alt="mhdsuhailmk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><&nbsp><img src="https://github-profile-trophy.vercel.app/?username=mhdsuhailmk" alt="mhdsuhailmk" /></a> </p>
 
 - 🔭 I’m currently working on **sercium**
 
