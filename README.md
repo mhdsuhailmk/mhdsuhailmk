@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdsuhailmk&label=Profile%20views&color=0e75b6&style=flat" alt="mhdsuhailmk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhdsuhailmk" alt="mhdsuhailmk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><nbsp><img src="https://github-profile-trophy.vercel.app/?username=mhdsuhailmk" alt="mhdsuhailmk" /></a> </p>
 
 - 🔭 I’m currently working on **sercium**
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/mhdsuhailmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhdsuhailmk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mhdsuhailmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mhdsuhailmk" height="30" width="40" /></a>
 <a href="https://fb.com/mhdsuhailmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdsuhailmk" height="30" width="40" /></a>
-<a href="https://instagram.com/mhdsuhailk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdsuhailk" height="30" width="40" /></a>
+<a href="https://instagram.com/mhdsuhailmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdsuhailk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mhdsuhailmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mhdsuhailmk" height="30" width="40" /></a>
 </p>
 
