@@ -33,3 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdsuhailmk&" alt="mhdsuhailmk" /></p>
 
+
+
+<p align="center"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhdsuhailmk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p>
+
