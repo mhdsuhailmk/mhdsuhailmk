@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **sercium**
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **Vue JS** 
 
 - 👨‍💻 All of my projects are available at [github.com/mhdsuhailmk](github.com/mhdsuhailmk)
 
