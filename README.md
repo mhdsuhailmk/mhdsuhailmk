@@ -1,9 +1,5 @@
-#
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
 
 <h1 align="center">Hi 👋, I'm MUHAMMED SUHAIL M K</h1>
 <h3 align="center">💫 A passionate full-stack developer👨‍💻 from India 🇮🇳 </h3> 
@@ -25,14 +21,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhdsuhailmk&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsuhailmk&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mhdsuhailmk&icon=0&color=6)](https://visitcount.itsvg.in)
-
 
 
 <p><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhdsuhailmk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p>
