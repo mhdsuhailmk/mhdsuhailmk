@@ -6,7 +6,7 @@
 <br>
 🔭 I’m currently working on <b>SERCIUM<b><br><br>
 🌱 I’m currently learning <b>Vue JS<b><br><br>
-👨‍💻 All of my projects are available at github.com/mhdsuhailmk<br><br> 
+👨‍💻 All of my projects are available at github.com/mhdsuhailmk<br><br>
 💬 Ask me about Java, Node JS, <b>express.JS<b><br><br>
 📫 How to reach me mhdsuhailmk@gmail.com<br>
 
